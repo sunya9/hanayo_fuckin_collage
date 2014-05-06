@@ -1,0 +1,25 @@
+{
+  "name": "hanayo_fuckin_collage",
+  "version": "0.0.1",
+  "description": "花陽クソコラ node版",
+  "main": "hanayo.js",
+  "scripts": {
+    "test": "node hanayo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sunya9/hanayo_fuckin_collage.git"
+  },
+  "keywords": [
+    "hanayo"
+  ],
+  "author": "_X_y_z_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunya9/hanayo_fuckin_collage/issues"
+  },
+  "homepage": "https://github.com/sunya9/hanayo_fuckin_collage",
+  "dependencies": {
+    "ntwitter": "0.5.0"
+  }
+}
