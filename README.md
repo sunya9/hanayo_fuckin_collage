@@ -1,11 +1,11 @@
-勝手にnode.jsで作り直したかっただけ
+勝手にnode.jsで作り直したかっただけ  
 gitの使い方とpackage.jsonの勉強に 間違ってても許して
 
 # クソコラを光速で生成
 
 ## ☆使い方☆
-1. bundle install
-2. ruby hanayo.rb
+1. npm install
+2. npm test もしくは node hanayo.js
 3. 誰か「@おまえ クソコラ」とか「@おまえ クソコラ頼む」
 4. 神絵師「シュバッ！」(一瞬でクソコラに変換して返信する)
 5. 誰か「ありがとう！貴方は神クソコラ絵師です」
