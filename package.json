@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/sunya9/hanayo_fuckin_collage",
   "dependencies": {
-    "ntwitter": "0.5.0"
+    "ntwitter": "0.5.0",
+    "gm" : "1.15.0",
+    "async" : "0.8.0"
   }
 }
