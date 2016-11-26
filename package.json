@@ -4,7 +4,7 @@
   "description": "花陽クソコラ node版",
   "main": "hanayo.js",
   "scripts": {
-    "test": "node hanayo.js"
+    "start": "node hanayo"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/sunya9/hanayo_fuckin_collage",
   "dependencies": {
-    "ntwitter": "0.5.0",
-    "gm" : "1.15.0",
-    "async" : "0.8.0"
+    "gm": "^1.23.0",
+    "twitter": "^1.4.0"
   }
 }
